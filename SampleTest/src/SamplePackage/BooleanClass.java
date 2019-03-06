@@ -11,6 +11,8 @@ public class BooleanClass {
 		System.out.println(a);
 		System.out.println("Hello");
 		System.out.println("Hello git hub change");
+		
+		System.out.println("The valuue of a is " + a);
 	}
 
 }
